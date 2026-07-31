@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "downloadUrl": "https://example.com/downloads/NebularV-1.2.0.exe",
+  "downloadUrl": "https://raw.githubusercontent.com/NebularityExtreme/updatesys_nebular/refs/heads/main/downloads/NebularV-1.2.0.exe",
   "sha256": "DEIN_SHA256_HASH",
   "notes": "Performance improvements and bug fixes."
 }
